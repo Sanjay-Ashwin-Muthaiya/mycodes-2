@@ -1,1 +1,4 @@
-sample
+git add .
+git status
+git commit -m "commit" filename
+git push -u origin master
